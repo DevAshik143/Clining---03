@@ -1,0 +1,2081 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1600px) {
+
+    .header-menu-area::before {
+        height: 147%;
+        width: 24%;
+    }
+    .header-btn a {
+        font-size: 17px;
+        padding: 14px 25px;
+    }
+    .header-menu ul li {
+        margin-right: 22px;
+    }
+    .header-btn {
+        margin-left: 27px;
+    }
+    .work-process-shape {
+        left: -30px;
+    }
+    .work-process-single-box:hover .work-process-shape {
+        left: -40px;
+    }
+    .project-thumb img {
+        width: 100%;
+    }
+    .project-text h3 {
+        font-size: 24px;
+        width: 150px;
+        height: 190px;
+    }
+    .project-content {
+        width: 80%;
+    }
+    .team-single-box:hover .team-content {
+    left: -11px;
+   }
+   .pricing-content {
+    background-size: cover;
+   }
+   .pricing-discription p {
+    width: 116%;
+   }
+
+
+
+
+ /*================================================
+ <--Start Home  page Two responsive css-->
+=================================================*/
+/* hero area */
+
+/* form box */
+   .form-box.inner input {
+    width: 100%;
+}
+.form-box select {
+    width: 100%;
+}
+.form-box.inner textarea {
+    width: 100%;
+}
+.contact-form.inner button {
+    width: 100%;
+}
+/* choose us area */
+.choose-us-thumb img {
+    width: 100%;
+}
+/* work process area */
+.work-process-style-two-content p {
+    width: 73%;
+}
+/* testimonial area */
+.testimonila-content-style-two p {
+    width: 70%;
+}
+
+
+/* about inner page  */
+
+.section-main-title.about h2 {
+    font-size: 41px;
+}
+
+/* service details inner page */
+.blog-details-area {
+    padding: 100px 0 0px;
+}
+.widget-categories-btn a {
+    padding: 17px 85px;
+}
+.widget-tags a {
+    margin: 9px -5px;
+}
+
+/* shop style two  */
+.Shop-style-two-content p {
+    width: 95%;
+}
+
+
+
+}
+
+/* Large Mobile :992px. */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+   
+    .header-menu-area::before {
+        height: 147%;
+        width: 24%;
+    }
+    .header-menu ul li {
+        margin-right: 8px;
+    }
+    .header-menu ul li a {
+        font-size: 15px;
+    }
+    .header-Shop-card {
+        margin-left: 6px;
+    }
+    .header-btn {
+        margin-left: 37px;
+    }
+    .header-btn a {
+        padding: 12px 26px;
+        font-size: 16px;
+    }
+    .hero-content h1 {
+        font-size: 57px;
+    }
+    .hero-content p {
+        width: 49%;
+    }
+
+    /* feature area */
+    .feature-single-box {
+        padding: 48px 13px 31px;
+    }
+
+
+    /* about area */
+    .about-content-discription {
+        width: 100%;
+    }
+    .about-thumb img {
+        width: 100%;
+    }
+   .about-shape {
+    display: none;
+   }
+   .about-content {
+    display: none;
+   }
+
+    /* work process area */
+    .work-process-single-box {
+        padding: 0px 35px 0;
+    }
+    .work-process-shape {
+        left: -30px;
+    }
+    .work-process-single-box:hover .work-process-shape {
+        left: -40px;
+    }
+    .work-process-content h4 {
+        font-size: 19px;
+    }
+
+    /* project area */
+    .project-thumb img {
+        width: 100%;
+    }
+    .project-text h3 {
+        font-size: 24px;
+        width: 150px;
+        height: 190px;
+    }
+    .project-content {
+        width: 76%;
+    }
+    .project-content-title {
+        padding: 19px 18px 20px;
+    }
+    .project-content-title h5 a {
+        font-size: 16px;
+    }
+    .project-content-icon i {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 20px;
+    }
+    .project-text {
+        bottom: -97px;
+    }
+
+    /* team area  */
+    .team-thumb img {
+        width: 100%;
+    }
+    .team-single-box:hover .team-content {
+    left: -11px;
+   }
+
+
+   /* pricing area */
+   .pricing-content {
+    background-size: cover;
+   }
+   .pricing-discription p {
+    width: 116%;
+   }
+   .pricing-info ul li {
+    font-size: 15px;
+  }
+  .clean-home-btn.pricing a {
+    font-size: 16px;
+  }
+
+  /* testimonial area */
+  .testimonial-single-box {
+    padding: 44px 16px 0px 19px;
+  }
+  .testimonila-content p {
+    font-size: 15px;
+    width: 100%;
+  }
+
+
+  /* counter area */
+  .counter-area {
+    padding: 115px 0 100px;
+  }
+  .counter-content h1 {
+    font-size: 50px;
+  }
+ 
+  /* footer area */
+  .footer-wiget-social ul li {
+    margin-right: 13px;
+   }
+
+/* section title */
+.section-discription {
+    width: 66%;
+}
+.section-main-title h2 {
+    font-size: 40px;
+}
+
+ /*================================================
+ <--Start Home  page Two responsive css-->
+=================================================*/
+/* hero area */
+.hero-area.style-two {
+    background-size: cover;
+    background-position: center center;
+}
+
+/* form box */
+.form-box.inner input {
+    width: 100%;
+}
+.form-box select {
+    width: 100%;
+}
+.form-box.inner textarea {
+    width: 100%;
+}
+.contact-form.inner button {
+    width: 100%;
+}
+/* choose us area */
+.choose-us-thumb img {
+    width: 100%;
+}
+.choose-us-content-discription {
+    width: 82%;
+}
+/* work process area */
+.work-process-style-two-content p {
+    width: 95%;
+}
+.work-process-style-two-shape {
+    display: none;
+}
+/* testimonial area */
+.testimonila-content-style-two p {
+    width: 88%;
+}
+/* project style two */
+.portfolio-icon {
+    top: 42%;
+}
+
+ /*================================================
+ <--Start all innner page responsive css-->
+=================================================*/
+/* about inner page  */
+
+.section-main-title.about h2 {
+    font-size: 34px;
+    line-height: 50px;
+}
+
+/* blog details inner page */
+.blog-details-area {
+    padding: 100px 0 108px;
+}
+button.icons {
+    right: 43px;
+}
+.widget-categories-box {
+    padding: 40px 8px 25px;
+}
+.widget-categories-btn a {
+    padding: 17px 60px;
+}
+.widget-tags a {
+    margin: 9px -2px;
+    font-size: 15px;
+}
+.blog-details-about-thumb img {
+    width: 100%;
+}
+.blog-details-about-thumb.service-details img {
+    width: 100%;
+    margin-bottom: 50px;
+}
+.blog-details-content-discription {
+    width: 100%;
+}
+
+/* shop Style Two */
+
+.Shop-style-two-thumb img {
+    width: 100%;
+}
+.Shop-style-two-content p {
+    width: 95%;
+}
+
+/* Shop Detail Inner Page */
+.tabs-items-thumb img {
+    width: 100%;
+}
+
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+/* header top menu  */
+.header-top-menu-area {
+    display: none;
+}  
+/* header menu area */
+.header-menu-area {
+    display: none;
+}
+
+/* hero area  */
+.hero-content h1 {
+    font-size: 56px;
+}
+.hero-content p {
+    width: 66%;
+}
+
+/*Section title*/
+
+.section-main-title h2 {
+    font-size: 40px;
+}
+
+.section-main-title.team-two h2 {
+    line-height: 52px;
+    font-size: 40px;
+}
+
+/* feature area */
+.feature-area {
+    padding: 0px 0 40px;
+}
+.feature-single-box {
+    padding: 48px 32px 31px;
+    margin-bottom: 40px;
+}
+
+/* about area */
+.about-area {
+    padding: 0 0 75px;
+}
+.about-content-discription {
+    width: 100%;
+}
+.about-content-discription p.about {
+    padding: 14px 14px 29px;
+}
+.about-content-discription p {
+    font-size: 15px;
+}
+.about-content-list ul li {
+    font-size: 15px;
+}
+
+.clean-home-btn.about {
+    margin-right: 6px;
+}
+.clean-home-btn.about a {
+    padding: 14px 18px;
+    font-size: 15px;
+}
+.about-icon {
+    margin-right: 10px;
+}
+.about-icon i {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 23px;
+}
+.about-phone h5 {
+    font-size: 16px;
+}
+.about-phone h5 span {
+    font-size: 16px;
+}
+.about-thumb img {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.about-content-discription p.about::before {
+    height: 67px;
+}
+
+.about-shape {
+    display: none;
+}
+
+/* service area */
+.service-area {
+    padding: 80px 0 76px;
+}
+.service-single-box {
+    padding: 30px 33px 23px;
+}
+.service-content a {
+    font-size: 20px;
+}
+
+/* work process area */
+.work-process-area {
+    padding: 80px 0 33px;
+}
+.work-process-single-box {
+    padding: 0px 54px 0;
+    margin-bottom: 40px;
+}
+.work-process-shape {
+    left: -31px;
+}
+.work-process-single-box:hover .work-process-shape {
+    left: -39px;
+}
+
+/* project area */
+.project-area {
+    padding: 0 0 75px;
+}
+.project-thumb img {
+    width: 100%;
+}
+.project-content {
+    width: 72%;
+}
+.project-content-title {
+    padding: 18px 23px 16px;
+}
+.project-content-title h5 a {
+    font-size: 16px;
+}
+.project-content-icon i {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 20px;
+}
+.project-text {
+    bottom: -98px;
+    left: 85px;
+}
+.clean-home-btn.project a {
+    padding: 16px 30px;
+    font-size: 16px;
+}
+
+/* team area */
+.team-area {
+    padding: 80px 0 35px;
+}
+.team-single-box {
+    margin-bottom: 80px;
+}
+.team-thumb img {
+    width: 100%;
+}
+.team-content {
+    width: 80%;
+}
+.team-single-box:hover .team-content {
+    left: 5px;
+    bottom: 0;
+}
+
+/* pricing area */
+
+.pricing-content {
+    background-size: cover;
+}
+.pricing-discription p {
+    width: 128%;
+    margin-left: -28px;
+}
+.clean-home-btn.pricing a {
+    font-size: 16px;
+}
+
+/* testimonial area */
+.testimonial-area {
+    padding: 0px 0 0px;
+}
+.testimonila-content p {
+    width: 100%;
+}
+.owl-nav {
+    display: none;
+}
+
+/* counter area */
+.counter-area {
+    padding: 188px 0 51px;
+}
+.counter-single-box {
+    margin-bottom: 40px;
+}
+.counter-icon-thumb {
+    margin-bottom: 30px;
+}
+.counter-content h1 {
+    font-size: 45px;
+}
+
+/* blog area */
+.blog-area {
+    padding: 80px 0 30px;
+}
+.blog-single-box {
+    margin-bottom: 40px;
+}
+.blog-content-title h3 a {
+    font-size: 22px;
+}
+
+/* footer area */
+.subscribe-content h1 {
+    font-size: 40px;
+}
+.form {
+    text-align: left;
+}
+.subscribe-form input {
+    width: 200px;
+}
+.subscribe-form button {
+    width: 150px;
+}
+.row.footer-line {
+    margin-top: 50px;
+    padding-top: 60px;
+}
+
+/* section title */
+.section-discription {
+    width: 90%;
+}
+
+
+ /*================================================
+ <--Start Home  page Two responsive css-->
+=================================================*/
+/* hero area */
+.hero-area.style-two {
+    background-size: cover;
+    background-position: center center;
+}
+.hero-content.style-two h1 {
+    font-size: 36px;
+}
+.hero-content.style-two h3 {
+    font-size: 40px;
+    line-height: 29px;
+}
+.hero-content.style-two p {
+    width: 100%;
+}
+.clean-home-btn.style-two a {
+    padding: 14px 25px;
+    margin-right: 4px;
+}
+/* form box */
+.form-box.inner input {
+    width: 100%;
+}
+.form-box select {
+    width: 100%;
+}
+.form-box.inner textarea {
+    width: 100%;
+}
+.contact-form.inner button {
+    width: 100%;
+}
+
+/* choose us area */
+.choose-us-thumb img {
+    width: 100%;
+}
+.section-discription.choose-us {
+    width: 100%;
+}
+.section-discription.choose-us p {
+    font-size: 15px;
+}
+.section-main-title.choose-us h2 {
+    font-size: 29px;
+}
+
+/* work process area */
+.work-process-style-two-single-box {
+    margin-bottom: 40px;
+}
+.work-process-style-two-content p {
+    width: 82%;
+}
+.work-process-style-two-shape {
+    display: none;
+}
+
+/* testimonial area */
+.testimonila-content-style-two p {
+    width: 63%;
+}
+/* project style two */
+.column {
+    flex: 50%;
+    max-width: 33%;
+}
+.portfolio-thumb::after {
+    display: none;
+}
+.portfolio-content {
+    display: none;
+}
+
+/*================================================
+ <--Start all innner page responsive css-->
+=================================================*/
+/* about inner page  */
+
+.section-main-title.about h2 {
+    font-size: 25px;
+    line-height: 42px;
+}
+.about-content-discription.style-three p {
+    font-size: 15px;
+}
+.section-main-title.style-three h2 {
+    font-size: 40px;
+}
+
+/* blog details inner page */
+.blog-details-area {
+    padding: 100px 0 66px;
+}
+button.icons {
+    right: 43px;
+}
+.widget-categories-box {
+    padding: 40px 8px 25px;
+}
+.widget-categories-btn a {
+    padding: 17px 60px;
+}
+.widget-tags a {
+    margin: 9px -2px;
+    font-size: 15px;
+}
+.blog-details-about-thumb img {
+    width: 100%;
+}
+.blog-details-about-thumb.service-details img {
+    width: 100%;
+    margin-bottom: 50px;
+}
+.blog-details-box {
+    margin-bottom: 50px;
+}
+.blog-details-content-discription {
+    width: 100%;
+}
+.blog-details-blockquote blockquote {
+    width: 80%;
+}
+
+/* shop Style Two */
+.Shop-style-two-thumb {
+    margin-bottom: 40px;
+}
+.Shop-style-two-thumb img {
+    width: 100%;
+}
+.Shop-style-two-content p {
+    width: 95%;
+}
+
+/* Shop Detail Inner Page */
+.product-details-area {
+    padding: 100px 0 30px;
+}
+.tabs-items-thumb img {
+    width: 100%;
+}
+.tab {
+    margin-bottom: 60px;
+}
+.tab ul li {
+    padding: 0 4px;
+    margin: 0 0 0;
+}
+
+
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+  
+/* header area */
+.header-top-menu-area {
+    display: none;
+}
+.header-menu-area {
+    display: none;
+}
+
+/* hero area */
+.hero-content h1 {
+    font-size: 51px;
+    line-height: 65px;
+}
+.hero-content p {
+    width: 100%;
+}
+
+/* feature area */
+.feature-area {
+    padding: 0px 0 40px;
+}
+.feature-single-box {
+    margin-bottom: 40px;
+}
+
+/* about area */
+.about-area {
+    padding: 0 0 80px;
+}
+.about-content-discription {
+    width: 100%;
+}
+.about-information {
+    margin-bottom: 50px;
+}
+.about-thumb {
+    text-align: left;
+}
+.about-thumb img {
+    width: 100%;
+}
+.about-shape {
+    display: none;
+}
+.about-content {
+    display: none;
+}
+
+/* service area */
+.service-area {
+    padding: 80px 0 75px;
+}
+
+/* work process area */
+.work-process-area {
+    padding: 80px 0 30px;
+}
+.work-process-single-box {
+    margin-bottom: 40px;
+}
+.work-process-shape {
+    display: none;
+}
+.work-process-single-box::before{
+    display: none;
+}
+.work-process-content p {
+    width: 65%;
+    margin: auto;
+}
+
+/* project area */
+.project-area {
+    padding: 0 0 75px;
+}
+
+/* team area */
+.team-area {
+    padding: 80px 0 44px;
+}
+.team-single-box {
+    text-align: center;
+    margin-bottom: 70px;
+}
+.team-single-box:hover .team-social-icon {
+    left: 114px;
+    opacity: 1;
+}
+.team-content {
+    right: -132px;
+    width: 55%;
+}
+.team-single-box:hover .team-content {
+    left: -131px;
+}
+
+/* pricing area */
+.pricing-area {
+    padding: 78px 0 38px;
+}
+.pricing-content {
+    background-size: cover;
+}
+
+/* testimonial area */
+.testimonial-area {
+    padding: 0px 0 0px;
+}
+.testimonial-single-box {
+    padding: 42px 16px 0px 42px;
+}
+.testimonila-content p {
+    font-size: 15px;
+    width: 100%;
+}
+.owl-nav{
+    display: none;
+}
+
+/* counter area */
+.counter-area {
+    padding: 222px 0 37px;
+    background-position: inherit;
+}
+.counter-single-box {
+    margin-bottom: 40px;
+}
+.counter-icon-thumb {
+    margin-bottom: 18px;
+}
+.counter-content h1 {
+    font-size: 42px;
+    margin-bottom: 12px;
+}
+
+/* blog area */
+.blog-area {
+    padding: 78px 0 62px;
+}
+/* footer area */
+.subscribe-content {
+    margin-bottom: 40px;
+}
+.form {
+    text-align: left;
+}
+.row.footer-line {
+    margin-top: 60px;
+    padding-top: 60px;
+}
+/* section title */
+.section-discription {
+    width: 100%;
+}
+
+
+
+ /*================================================
+ <--Start Home  page Two responsive css-->
+=================================================*/
+/* hero area */
+.hero-area.style-two {
+    background-size: cover;
+    background-position: center center;
+    height: 1000px;
+}
+.hero-content.style-two {
+    margin: 167px 0 36px;
+}
+.hero-content.style-two h1 {
+    font-size: 46px;
+}
+.hero-content.style-two h3 {
+    font-size: 50px;
+    line-height: 42px;
+}
+.hero-content.style-two p {
+    width: 100%;
+}
+.clean-home-btn.style-two a {
+    padding: 14px 25px;
+    margin-right: 4px;
+}
+/* form box */
+.contact-form-box {
+    padding: 22px 56px 29px;
+}
+.form-box.inner input {
+    width: 100%;
+}
+.form-box select {
+    width: 100%;
+}
+.form-box.inner textarea {
+    width: 100%;
+}
+.contact-form.inner button {
+    width: 100%;
+}
+
+/* about area style two */
+.about-area.style-two {
+    padding: 190px 0 85px;
+}
+
+/* choose us area */
+.choose-us-area {
+    padding: 84px 0 41px;
+    position: relative;
+}
+.choose-us-thumb {
+    margin-bottom: 50px;
+}
+.choose-us-thumb img {
+    width: 100%;
+}
+.section-discription.choose-us {
+    width: 100%;
+}
+.section-discription.choose-us p {
+    font-size: 15px;
+}
+.section-main-title.choose-us h2 {
+    font-size: 29px;
+}
+
+/* team style two */
+.team-area-style-two {
+    padding: 76px 0 45px;
+}
+
+/* work process area */
+.work-process-area-style-two {
+    padding: 80px 0 37px;
+}
+.work-process-style-two-single-box {
+    margin-bottom: 40px;
+}
+.work-process-style-two-content p {
+    width: 82%;
+}
+.work-process-style-two-shape {
+    display: none;
+}
+
+/* project style two */
+.project-area.project-style-two {
+    padding: 76px 0 53px;
+}
+.column {
+    flex: 100%;
+    max-width: 100%;
+  }
+.portfolio-icon i {
+    font-size: 27px;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+}
+
+/* testimonial area */
+.testimonial-area.style-two {
+    padding: 76px 0 84px;
+}
+.testimonila-content-style-two p {
+    width: 63%;
+}
+
+
+/*================================================
+ <--Start all innner page responsive css-->
+=================================================*/
+
+/* about inner page  */
+
+.section-main-title.about h2 {
+    font-size: 36px;
+    line-height: 50px;
+}
+.about-content-discription.style-three p {
+    font-size: 15px;
+}
+.section-main-title.style-three h2 {
+    font-size: 40px;
+}
+
+
+/* blog details inner page */
+.blog-details-area {
+    padding: 100px 0 66px;
+}
+button.icons {
+    right: 43px;
+}
+.widget-categories-box {
+    padding: 40px 8px 25px;
+}
+.widget-categories-btn a {
+    padding: 17px 60px;
+}
+.widget-tags a {
+    margin: 9px -2px;
+    font-size: 15px;
+}
+.blog-details-about-thumb {
+    margin-bottom: 40px;
+}
+.blog-details-about-thumb img {
+    width: 100%;
+}
+.blog-details-about-content-title h2 {
+    font-size: 26px;
+}
+.blog-details-box {
+    padding: 82px 10px 20px;
+    margin-bottom: 50px;
+}
+.blog-details-content-discription p {
+    font-size: 14px;
+}
+.blog-details-about-thumb.service-details img {
+    width: 100%;
+    margin-bottom: 50px;
+}
+.blog-details-content-discription {
+    width: 100%;
+}
+.blog-details-blockquote blockquote {
+    width: 100%;
+}
+
+/* shop Style Two */
+.Shop-style-two-thumb {
+    margin-bottom: 40px;
+}
+.Shop-style-two-thumb img {
+    width: 100%;
+}
+.Shop-style-two-content p {
+    width: 105%;
+}
+
+/* Shop Detail Inner Page */
+.product-details-area {
+    padding: 100px 0 30px;
+}
+.tabs-items-thumb img {
+    width: 100%;
+}
+
+.tab ul li {
+    margin-bottom: 0;
+}
+.tab.style-two {
+    margin-top: 50px;
+}
+
+}
+
+
+
+
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+
+/* header area */
+.header-top-menu-area {
+    display: none;
+}
+.header-menu-area {
+    display: none;
+}
+
+/* hero area */
+.hero-content h1 {
+    font-size: 45px;
+    line-height: 56px;
+}
+.hero-content p {
+    width: 100%;
+}
+
+/* feature area */
+.feature-area {
+    padding: 0px 0 40px;
+}
+.feature-single-box {
+    margin-bottom: 40px;
+}
+
+/* about area */
+.about-area {
+    padding: 0 0 80px;
+}
+.about-content-discription {
+    width: 100%;
+}
+.about-information {
+    margin-bottom: 50px;
+}
+.about-thumb {
+    text-align: left;
+}
+.about-thumb img {
+    width: 100%;
+}
+.about-shape {
+    display: none;
+}
+.about-content {
+    display: none;
+}
+
+/* service area */
+.service-area {
+    padding: 80px 0 75px;
+}
+
+/* work process area */
+.work-process-area {
+    padding: 80px 0 30px;
+}
+.work-process-single-box {
+    margin-bottom: 40px;
+}
+.work-process-shape {
+    display: none;
+}
+.work-process-single-box::before{
+    display: none;
+}
+.work-process-content p {
+    width: 65%;
+    margin: auto;
+}
+
+/* project area */
+.project-area {
+    padding: 0 0 75px;
+}
+
+/* team area */
+.team-area {
+    padding: 80px 0 44px;
+}
+.team-single-box {
+    text-align: center;
+    margin-bottom: 70px;
+}
+.team-single-box:hover .team-social-icon {
+    left: 114px;
+    opacity: 1;
+}
+.team-content {
+    right: -132px;
+    width: 55%;
+}
+.team-single-box:hover .team-content {
+    left: -131px;
+}
+
+/* pricing area */
+.pricing-area {
+    padding: 78px 0 38px;
+}
+.pricing-content {
+    background-size: cover;
+}
+
+/* testimonial area */
+.testimonial-area {
+    padding: 0px 0 0px;
+}
+.testimonial-single-box {
+    padding: 42px 16px 0px 42px;
+}
+.testimonila-content p {
+    font-size: 15px;
+    width: 100%;
+}
+.owl-nav{
+    display: none;
+}
+
+/* counter area */
+.counter-area {
+    padding: 222px 0 37px;
+    background-position: inherit;
+}
+.counter-single-box {
+    margin-bottom: 40px;
+}
+.counter-icon-thumb {
+    margin-bottom: 18px;
+}
+.counter-content h1 {
+    font-size: 42px;
+    margin-bottom: 12px;
+}
+
+/* blog area */
+.blog-area {
+    padding: 78px 0 62px;
+}
+/* footer area */
+.subscribe-content {
+    margin-bottom: 40px;
+}
+.form {
+    text-align: left;
+}
+.row.footer-line {
+    margin-top: 60px;
+    padding-top: 60px;
+}
+/* section title */
+.section-main-title h2 {
+    font-size: 40px;
+}
+.section-main-title.about h2 {
+    font-size: 40px;
+}
+.section-discription {
+    width: 100%;
+}
+
+
+ /*================================================
+ <--Start Home  page Two responsive css-->
+=================================================*/
+/* hero area */
+.hero-area.style-two {
+    background-size: cover;
+    background-position: center center;
+    height: 1000px;
+}
+.hero-content.style-two {
+    margin: 167px 0 36px;
+}
+.hero-content.style-two h1 {
+    font-size: 46px;
+}
+.hero-content.style-two h3 {
+    font-size: 50px;
+    line-height: 70px;
+}
+.hero-content.style-two p {
+    width: 100%;
+}
+.clean-home-btn.style-two a {
+    padding: 14px 25px;
+    margin-right: 4px;
+}
+/* form box */
+.contact-form-box {
+    padding: 22px 56px 29px;
+}
+.form-box.inner input {
+    width: 100%;
+}
+.form-box select {
+    width: 100%;
+}
+.form-box.inner textarea {
+    width: 100%;
+}
+.contact-form.inner button {
+    width: 100%;
+}
+
+/* about area style two */
+.about-area.style-two {
+    padding: 190px 0 85px;
+}
+.process-ber-plugin {
+    margin-bottom: 70px;
+}
+.about-shape-one.style-two {
+    display: none;
+}
+.about-shape-two.style-two {
+    display: none;
+}
+
+/* choose us area */
+.choose-us-area {
+    padding: 80px 0 43px;
+}
+.choose-us-thumb {
+    margin-bottom: 50px;
+}
+.choose-us-thumb img {
+    width: 100%;
+}
+.section-discription.choose-us {
+    width: 100%;
+}
+.section-discription.choose-us p {
+    font-size: 15px;
+}
+.section-main-title.choose-us h2 {
+    font-size: 29px;
+}
+.choose-us-thumb-shape {
+    display: none;
+}
+
+/* work process area */
+.work-process-area-style-two {
+    padding: 80px 0 37px;
+}
+.work-process-style-two-single-box {
+    margin-bottom: 40px;
+}
+.work-process-style-two-content p {
+    width: 82%;
+}
+.work-process-style-two-shape {
+    display: none;
+}
+
+
+/* team style two */
+.team-area-style-two {
+    padding: 76px 0 45px;
+}
+.section-main-title.team-two h2 {
+    line-height: 42px;
+}
+
+/* testimonial area */
+.testimonila-content-style-two p {
+    width: 63%;
+}
+
+/* project style two */
+.project-area.project-style-two {
+    padding: 76px 0 53px;
+}
+.column {
+    flex: 100%;
+    max-width: 100%;
+  }
+.portfolio-icon i {
+    font-size: 27px;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+}
+
+/* testimonial area */
+.testimonial-area.style-two {
+    padding: 76px 0 84px;
+}
+.testimonila-content-style-two p {
+    width: 63%;
+}
+
+/*================================================
+ <--Start all innner page responsive css-->
+=================================================*/
+
+/* about inner page  */
+
+.section-main-title.about h2 {
+    font-size: 34px;
+    line-height: 50px;
+}
+.about-content-discription.style-three p {
+    font-size: 15px;
+}
+.section-main-title.style-three h2 {
+    font-size: 40px;
+}
+
+
+/* blog details inner page */
+
+.blog-details-area {
+    padding: 100px 0 66px;
+}
+button.icons {
+    right: 63px;
+}
+.widget-categories-box {
+    padding: 40px 8px 25px;
+}
+.widget-categories-btn a {
+    padding: 17px 60px;
+}
+.widget-tags a {
+    margin: 9px -2px;
+    font-size: 15px;
+}
+.blog-details-about-thumb {
+    margin-bottom: 40px;
+}
+.blog-details-about-thumb img {
+    width: 100%;
+}
+.blog-details-about-content-title h2 {
+    font-size: 23px;
+}
+.blog-details-box {
+    padding: 82px 10px 20px;
+    margin-bottom: 50px;
+}
+.blog-details-content-discription p {
+    font-size: 14px;
+}
+.blog-details-about-thumb.service-details img {
+    width: 100%;
+    margin-bottom: 50px;
+}
+.blog-details-content-discription {
+    width: 100%;
+}
+.blog-details-blockquote blockquote {
+    width: 100%;
+}
+
+
+/* shop Style Two */
+.Shop-style-two-thumb {
+    margin-bottom: 40px;
+}
+.Shop-style-two-thumb img {
+    width: 100%;
+}
+.Shop-style-two-content p {
+    width: 97%;
+}
+
+
+/* Shop Detail Inner Page */
+.product-details-area {
+    padding: 100px 0 30px;
+}
+.tabs-items-thumb img {
+    width: 100%;
+}
+
+.tab ul li {
+    margin-bottom: 0;
+}
+.tab.style-two {
+    margin-top: 50px;
+}
+
+
+
+}
+
+
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 599px)  {
+   
+/* header area */
+
+.header-top-menu-area {
+    display: none;
+}
+.header-menu-area {
+    display: none;
+}
+
+/* hero area */
+.hero-area {
+    height: 550px;
+}
+.hero-content h1 {
+    font-size: 29px;
+    line-height: 42px;
+}
+.hero-content p {
+    width: 100%;
+}
+.clean-home-btn a {
+    font-size: 16px;
+    padding: 10px 20px;
+}
+
+/* feature area */
+.feature-area {
+    padding: 0px 0 40px;
+}
+.feature-single-box {
+    margin-bottom: 40px;
+    padding: 48px 12px 31px;
+}
+
+/* about area */
+.about-area {
+    padding: 0 0 80px;
+}
+.about-content-discription {
+    width: 100%;
+}
+.about-content-discription p.about {
+    padding: 14px 11px 29px;
+    font-size: 14px;
+}
+.about-content-list ul li {
+    padding: 7px 16px 0px;
+}
+.about-information {
+    margin-bottom: 50px;
+}
+.clean-home-btn.about {
+    margin-right: 4px;
+}
+.clean-home-btn.about a {
+    padding: 10px 20px;
+    font-size: 14px;
+}
+.about-icon {
+    margin-right: 3px;
+}
+.about-icon i {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 17px;
+}
+.about-phone h5 {
+    font-size: 15px;
+    line-height: 21px;
+}
+.about-phone h5 span {
+    font-size: 15px;
+}
+.about-thumb {
+    text-align: left;
+}
+.about-thumb img {
+    width: 100%;
+}
+.about-shape {
+    display: none;
+}
+.about-content {
+    display: none;
+}
+
+/* service area */
+.service-area {
+    padding: 80px 0 75px;
+}
+.service-single-box {
+    padding: 28px 33px 20px;
+}
+.service-content a {
+    font-size: 20px;
+}
+.service-content a i {
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+}
+.clean-home-btn.service a {
+    padding: 12px 22px;
+}
+
+/* work process area */
+.work-process-area {
+    padding: 80px 0 30px;
+}
+.work-process-single-box {
+    margin-bottom: 40px;
+    padding: 0px 0px 0;
+}
+.work-process-shape {
+    display: none;
+}
+.work-process-single-box::before{
+    display: none;
+}
+.work-process-content p {
+    width: 65%;
+    margin: auto;
+}
+
+/* project area */
+.project-area {
+    padding: 0 0 75px;
+}
+.project-thumb img {
+    width: 100%;
+}
+.project-content {
+    width: 88%;
+}
+.project-content-title {
+    padding: 11px 20px 10px;
+}
+.project-content-title h5 a {
+    font-size: 16px;
+}
+.project-content-icon {
+    padding: 17px 19px 0;
+}
+.project-content-icon i {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 20px;
+}
+.project-text {
+    bottom: -99px;
+    left: 63px;
+}
+.project-text h3 {
+    font-size: 24px;
+    width: 165px;
+    height: 174px;
+    line-height: 100px;
+}
+.clean-home-btn.project a {
+    padding: 12px 22px;
+    font-size: 16px;
+}
+/* team area */
+.team-area {
+    padding: 80px 0 44px;
+}
+.team-single-box {
+    text-align: center;
+    margin-bottom: 70px;
+}
+.team-thumb img {
+    width: 100%;
+}
+.team-single-box:hover .team-social-icon {
+    left: 6px;
+    opacity: 1;
+}
+.team-content {
+    right: -34px;
+    width: 79%;
+    padding: 10px 20px;
+    
+}
+.team-single-box:hover .team-content {
+    left: -96px;
+}
+.team-content h5 a {
+    font-size: 18px;
+}
+/* pricing area */
+.pricing-area {
+    padding: 78px 0 38px;
+}
+.pricing-content {
+    background-size: cover;
+}
+.pricing-info ul li {
+    font-size: 15px;
+}
+
+/* testimonial area */
+.testimonial-area {
+    padding: 0px 0 0px;
+}
+.testimonial-single-box {
+    padding: 42px 0 42px;
+    text-align: center;
+}
+.testimonila-content p {
+    font-size: 15px;
+    width: 84%;
+    margin: auto;
+}
+.testimonial-thumb {
+    display: none;
+}
+.owl-nav{
+    display: none;
+}
+.owl-carousel .owl-item img {
+    display: inline-block;
+}
+
+/* counter area */
+.counter-area {
+    padding: 222px 0 37px;
+    background-position: inherit;
+}
+.counter-single-box {
+    margin-bottom: 40px;
+}
+.counter-icon-thumb {
+    margin-bottom: 18px;
+}
+.counter-content h1 {
+    font-size: 42px;
+    margin-bottom: 12px;
+}
+.blog-content-title h3 a {
+    font-size: 22px;
+}
+
+/* blog area */
+.blog-area {
+    padding: 78px 0 62px;
+}
+/* brand area */
+.brand-area {
+    display: none;
+}
+/* footer area */
+.subscribe-content {
+    margin-bottom: 40px;
+}
+.subscribe-content h1 {
+    font-size: 36px;
+}
+.form {
+    text-align: left;
+}
+.subscribe-form input {
+    height: 56px;
+    width: 160px;
+}
+.subscribe-form button {
+    height: 60px;
+    width: 136px;
+}
+.row.footer-line {
+    margin-top: 60px;
+    padding-top: 60px;
+}
+/* section title */
+.section-main-title h2 {
+    font-size: 26px;
+}
+.section-main-title.about h2 {
+    font-size: 26px;
+    line-height: 42px;
+}
+.section-discription {
+    width: 100%;
+}
+.section-discription.service p {
+    font-size: 14px;
+}
+
+
+
+
+
+ /*================================================
+ <--Start Home  page Two responsive css-->
+=================================================*/
+/* hero area */
+.hero-area.style-two {
+    background-size: cover;
+    background-position: center center;
+    height: 1000px;
+}
+.hero-content.style-two {
+    margin: 167px 0 36px;
+}
+.hero-content.style-two h1 {
+    font-size: 30px;
+}
+.hero-content.style-two h3 {
+    font-size: 39px;
+    line-height: 56px;
+}
+.hero-content.style-two p {
+    width: 100%;
+}
+.clean-home-btn.style-two a {
+    padding: 14px 25px;
+    margin-right: 4px;
+}
+/* form box */
+
+.contact-form-box {
+    padding: 22px 15px 29px;
+}
+.contact-box-title h3 {
+    font-size: 22px;
+}
+.form-box.inner input {
+    width: 100%;
+}
+.form-box select {
+    width: 100%;
+}
+.form-box.inner textarea {
+    width: 100%;
+}
+.contact-form.inner button {
+    width: 100%;
+}
+
+/* about area style two */
+.about-area.style-two {
+    padding: 190px 0 85px;
+}
+.process-ber-plugin {
+    margin-bottom: 70px;
+}
+.about-shape-one.style-two {
+    display: none;
+}
+.about-shape-two.style-two {
+    display: none;
+}
+
+/* choose us area */
+.choose-us-area {
+    padding: 80px 0 43px;
+}
+.choose-us-thumb {
+    margin-bottom: 50px;
+}
+.choose-us-thumb img {
+    width: 100%;
+}
+.choose-us-thumb-shape {
+    display: none;
+}
+.section-discription.choose-us {
+    width: 100%;
+}
+.section-discription.choose-us p {
+    font-size: 15px;
+}
+.section-main-title.choose-us h2 {
+    font-size: 26px;
+}
+
+/* work process area */
+.work-process-area-style-two {
+    padding: 80px 0 37px;
+}
+.work-process-style-two-single-box {
+    margin-bottom: 40px;
+}
+.work-process-style-two-content p {
+    width: 82%;
+}
+.work-process-style-two-shape {
+    display: none;
+}
+
+/* testimonial area */
+.testimonila-content-style-two p {
+    width: 91%;
+}
+
+/* team area */
+.team-area-style-two {
+    padding: 76px 0 45px;
+}
+.section-main-title.team-two h2 {
+    line-height: 42px;
+}
+
+/* project style two */
+.project-area.project-style-two {
+    padding: 76px 0 53px;
+}
+.column {
+    flex: 100%;
+    max-width: 100%;
+  }
+.portfolio-icon {
+    top: 45%;
+}
+.portfolio-icon i {
+    font-size: 27px;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+}
+
+/* testimonial area */
+.testimonial-area.style-two {
+    padding: 76px 0 84px;
+}
+.testimonila-content-style-two p {
+    width: 87%;
+    font-size: 14px;
+}
+
+/*================================================
+ <--Start all innner page responsive css-->
+=================================================*/
+
+/* about inner page  */
+
+.section-main-title.about h2 {
+    font-size: 22px;
+    line-height: 35px;
+}
+.about-content-discription.style-three p {
+    font-size: 13px;
+}
+.section-main-title.style-three h2 {
+    font-size: 40px;
+}
+
+/* service inner page  */
+.feature-area.style-two {
+    padding: 80px 0 0px;
+}
+.about-area.style-three {
+    padding: 78px 0 82px;
+}
+.section-discription.about-style-three {
+    width: 100%;
+}
+.clean-home-btn.service {
+    margin-bottom: 40px;
+}
+
+
+/* blog details inner page */
+
+.blog-details-area {
+    padding: 100px 0 66px;
+}
+.blog-details-content-list ul li {
+    display: inline-block;
+    margin-right: 3px;
+}
+.blog-details-content-list ul li a i {
+    margin-right: 2px;
+}
+.widget-categories-box {
+    padding: 40px 8px 25px;
+}
+.widget-categories-btn a {
+    padding: 17px 60px;
+}
+.blog-details-about-thumb {
+    margin-bottom: 40px;
+}
+.blog-details-about-thumb img {
+    width: 100%;
+}
+.blog-details-about-content-title h2 {
+    font-size: 23px;
+}
+.blog-details-box {
+    padding: 82px 10px 20px;
+    margin-bottom: 50px;
+}
+.blog-details-content-discription p {
+    font-size: 13px;
+}
+.blog-details-about-thumb.service-details img {
+    width: 100%;
+    margin-bottom: 50px;
+}
+.blog-details-about-content-discription {
+    width: 100%;
+}
+.blog-details-content-discription {
+    width: 100%;
+}
+.blog-details-blockquote {
+    padding: 18px 20px 41px;
+}
+.blog-details-blockquote blockquote {
+    width: 100%;
+    font-size: 14px;
+}
+.blog-details-box-thumb {
+    display: none;
+}
+button.icons {
+    right: 39px;
+}
+.widget-tags a {
+    margin: 10px 7px;
+    font-size: 13px;
+    padding: 4px 11px;
+}
+
+/* shop Style Two */
+.Shop-style-two-thumb {
+    margin-bottom: 40px;
+}
+.Shop-style-two-thumb img {
+    width: 100%;
+}
+.Shop-style-two-content p {
+    width: 100%;
+    font-size: 13px;
+}
+
+/* Shop Detail Inner Page */
+.product-details-area {
+    padding: 100px 0 30px;
+}
+.tabs-items-thumb img {
+    width: 100%;
+}
+
+.tab ul li {
+    margin-bottom: 0;
+    padding: 0;
+    margin-right: -4px;
+}
+.tab.style-two {
+    margin-top: 50px;
+}
+.style-two .tabs li a {
+    margin-bottom: 22px;
+}
+.tab ul li a img {
+    width: 86%;
+}
+.tabs-items-content p {
+    margin-bottom: 50px;
+    font-size: 14px;
+}
+
+}
+
+
+
+
+
